@@ -12,5 +12,6 @@
   ],
   "rules": {
       // overrides
+      "react/props-types": 0
   }
 }
